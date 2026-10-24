@@ -6,7 +6,7 @@ module.exports.config = {
   name: "admin",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "乛 M𝆠፝֟R ཐི༏ཋྀ JU𝆠፝֟W𝆠፝֟ELꜛཐི༏ཋྀ࿐",
+  credits: "Tarek sarker",
   description: "Show Owner Info as Text with Image",
   commandCategory: "info",
   usages: "admin",
